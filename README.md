@@ -12,12 +12,13 @@ Saat ini saya memiliki minat besar terhadap dunia coding dan terus belajar dari 
 
 - 💼 Mahasiswa aktif di: **Universitas Universitas Putera Batam**
 - 📚 Program Studi: **Teknik Informatika**
-- 📍 Lokasi: [Contoh: Batam, Indonesia]
+- 📍 Lokasi: Batam, Indonesia
 - 🌱 Sedang belajar: **C# dan dasar-dasar algoritma**
 
 ---
 
 ---
+
 
 ## 📌 Tujuan Saya
 
